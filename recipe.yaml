@@ -82,7 +82,7 @@ tasks:
   # Download ESX resources
   - action: download_github
     src: https://github.com/thelindat/es_extended
-    ref: 941353ed3068c35cce02a18da6852d4e92c0ce8f
+    ref: beb7d0efbf348019096d34a88587061b8de197fd
     dest: ./resources/[esx]/es_extended
 
   - action: download_github
@@ -285,7 +285,7 @@ tasks:
   ## Linden Inventory
   - action: download_github
     src: https://github.com/thelindat/linden_inventory
-    ref: 09c75000f9e7dfc39519c2f49b045e444f777605
+    ref: 4ecb3b0d824b3ef22a8349a085c5583370134679
     dest: ./resources/[essential]/linden_inventory
 
   ## Final touches
